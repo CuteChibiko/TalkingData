@@ -75,10 +75,13 @@ At first, put sample_submission.csv test.csv test_supplement.csv train.csv to in
 
 Then run run.sh as follows,
 
- `$ cd scripts/
- $ ./run_mk_feats.sh
- $ ./run_mk_model1.sh
- $ ./run_mk_model2.sh`
+`$ cd scripts/`
+
+` $ ./run_mk_feats.sh`
+
+` $ ./run_mk_model1.sh`
+
+` $ ./run_mk_model2.sh`
 
  Output prediction files will be in csv directory.
  
