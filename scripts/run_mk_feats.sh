@@ -1,8 +1,9 @@
 #!/bin/sh -xe
 
-#rm ../work/*
-
 path=../scripts
+
+mkdir -p ../work
+mkdir -p ../csv
 
 # make mapping click_id
 python $path/mk_mapping.py
