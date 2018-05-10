@@ -29,7 +29,7 @@ Most of these features have already been discussed on the [kaggle forum](https:/
     - mk_feat_recumcount.py
     - mk_feat_cumratio.py
 
-  -  time to next click
+  - time to next click
     - mk_feat_nextClick_leak_day.py
     - mk_feat_nextClick_filter.py
 
@@ -37,16 +37,16 @@ Most of these features have already been discussed on the [kaggle forum](https:/
     - mk_feat_rangecount.py
     - mk_feat_rangecount_minute.py
 
-  -  variance
+  - variance
     - mk_feat_var.py
 
-  -  common IP
+  - common IP
     - mk_feat_common_ip.py
 
-  -  unique count
+  - unique count
     - mk_feat_uniq_count2.py
 
-  -  target encoding: woe
+  - target encoding: woe
     - mk_feat_woe_all_prev.py
     - mk_feat_woe_bound.py
     
