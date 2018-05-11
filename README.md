@@ -71,9 +71,9 @@ Python3 packages:
 
 ## How to run
 
-At first, put sample_submission.csv test.csv test_supplement.csv train.csv to input directory.
+At first, put sample_submission.csv test.csv test_supplement.csv train.csv to `input` directory.
 
-Then run run.sh as follows,
+Then run shell scripts as follows,
 
 `$ cd scripts/`
 
